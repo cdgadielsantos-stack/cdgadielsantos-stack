@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de programação <br>
-  🚀 Aprendiz Assistente Administrativo <br>
+  🚀 Estágiario em Dados <br>
   📍 Brasil
 </p>
 
