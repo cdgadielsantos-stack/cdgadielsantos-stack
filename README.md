@@ -1,4 +1,4 @@
-### 👋 Hi there. This is Gadiel!
+<h1 align="center"👋 Hi there. This is Gadiel!
 
 ---
 
