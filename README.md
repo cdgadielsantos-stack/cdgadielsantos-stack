@@ -31,25 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-<!-- Github -->
-<div align="center">
-<h1><p>Estatísticas de Perfil</p></h1>
-
-<table>
-<tr>
-<td width="20%" align="left">
-
-<img src="./shiny-gengar-ig.gif" width="180" style="border-radius: 15px;">
-</td>
-<td width="60%" align="left">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=isaadsl&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=blue_navy)
-
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaadsl/isaadsl/output/github-contribution-grid-snake.svg">
-</picture>
