@@ -40,7 +40,7 @@
 <tr>
 <td width="20%" align="left">
 
-<img src="./jinx.arcane.png" width="180" style="border-radius: 15px;">
+<img src="./shiny-gengar-ig.gif" width="180" style="border-radius: 15px;">
 </td>
 <td width="60%" align="left">
 
