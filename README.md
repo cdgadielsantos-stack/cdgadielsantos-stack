@@ -31,7 +31,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
+[**Light**](https://www.linkedin.com/company/light/posts/?feedView=all) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
@@ -43,7 +43,5 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/gadielcaminos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
