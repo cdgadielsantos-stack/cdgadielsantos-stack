@@ -8,10 +8,6 @@
 
 ---
 
-<p align="center">
-  https://komarev.com/ghpvc/?username=cdgadielsantos-stack&color=blue
-</p>
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
