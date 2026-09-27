@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="./banner.logo.png" alt="Banner" width="100%" />
+<img src="./banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">👋 Hi there. This is Gadiel!</h1>
 
